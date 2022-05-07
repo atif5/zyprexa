@@ -1,4 +1,4 @@
-telebot
+pyTelegramBotAPI
 wolframalpha
 parse
 requests
