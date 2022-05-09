@@ -6,5 +6,5 @@ A [telegram bot](https://t.me/mathemathicsBot) that solves anything mathematical
 
 Zyprexa spitting some facts:
 
-![image]()
+![image](https://github.com/atif5/zyprexa/blob/main/zyprexa.png)
 ![image]()
