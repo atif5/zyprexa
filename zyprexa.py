@@ -15,7 +15,7 @@ I can solve and inform you about any mathematical expression with my command wit
 `\/solve (regular expression)`
 
 I can turn your regular mathematical expressions into beautiful images using latex as well\:
-`\/latex (regular expression)`"""
+`\/latex (latex code)`"""
 
 LATEX_SERVICE = "https://latex.codecogs.com/png.latex?\dpi{300}\huge "
 
