@@ -14,7 +14,7 @@ Hi\! I am zyprexa\, a bot built by [Burzum](https://github.com/atif5)
 I can solve and inform you about any mathematical expression with my command with the syntax:
 `\/solve (regular expression)`
 
-I can turn your regular mathematical expressions into beautiful images using latex as well\:
+I can render latex as well\:
 `\/latex (latex code)`"""
 
 LATEX_SERVICE = "https://latex.codecogs.com/png.latex?\dpi{300}\huge "
