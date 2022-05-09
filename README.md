@@ -7,4 +7,4 @@ A [telegram bot](https://t.me/mathemathicsBot) that solves anything mathematical
 Zyprexa spitting some facts:
 
 ![image](https://github.com/atif5/zyprexa/blob/main/zyprexa.png)
-![image]()
+![image](https://github.com/atif5/zyprexa/blob/main/zyprexa2.png)
